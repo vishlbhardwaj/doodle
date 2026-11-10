@@ -1,0 +1,10 @@
+{
+  "name": "doodle",
+  "version": "1.1.0",
+  "description": "Doodle: draw anything as a code-generated, hand-drawn line illustration.",
+  "author": { "name": "Vishal Bhardwaj" },
+  "homepage": "https://github.com/vishlbhardwaj/doodle",
+  "repository": "https://github.com/vishlbhardwaj/doodle",
+  "license": "MIT",
+  "skills": ["./"]
+}

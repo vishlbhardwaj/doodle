@@ -1,0 +1,18 @@
+{
+  "name": "vishlbhardwaj",
+  "owner": { "name": "Vishal Bhardwaj" },
+  "metadata": { "description": "Doodle by Vishal Bhardwaj", "version": "1.1.0" },
+  "plugins": [
+    {
+      "name": "doodle",
+      "source": "./",
+      "description": "Doodle: draw anything as a code-generated, hand-drawn line illustration.",
+      "version": "1.1.0",
+      "author": { "name": "Vishal Bhardwaj" },
+      "homepage": "https://github.com/vishlbhardwaj/doodle",
+      "repository": "https://github.com/vishlbhardwaj/doodle",
+      "license": "MIT",
+      "keywords": ["illustration", "doodle", "drawing", "line-art", "pen-and-ink"]
+    }
+  ]
+}

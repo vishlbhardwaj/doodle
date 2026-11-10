@@ -1,0 +1,9 @@
+.DS_Store
+**/LOCAL.md
+shots/
+*.log
+engine/drawings/
+engine/*.html
+engine/src/faucet.js
+doodles/
+LEARNINGS.md
