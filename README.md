@@ -1,11 +1,13 @@
 # doodle
 
 A skill for coding agents (Claude Code, Codex, Cursor and others that read `SKILL.md`)
-that draws anything as a code-generated line illustration: objects, products, people,
-plants, buildings, landscapes, scenes and storyboards. Every drawing is authored as
-geometry and rendered by a seeded "hand", so the result looks drawn. It is judged as a
-finished line drawing first, with colour as a second pass. The engine is plain HTML and
-JS, bundled inside the skill, with nothing to install.
+that draws anything as a code-generated line illustration: objects, products, plants,
+buildings, landscapes, scenes and storyboards. Every drawing is authored as geometry and
+rendered by a seeded "hand", so the result looks drawn. It is judged as a finished line
+drawing first, with colour as a second pass. The engine is plain HTML and JS, bundled
+inside the skill, with nothing to install.
+
+People and faces are not good yet; that part is still being worked on.
 
 ```sh
 npx skills add vishlbhardwaj/doodle
